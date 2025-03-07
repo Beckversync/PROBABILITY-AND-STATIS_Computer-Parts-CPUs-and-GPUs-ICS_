@@ -1,6 +1,3 @@
-Here’s a polished description for that project:  
-
----
 
 # 📊 Probability and Statistics: Analysis of Computer Parts (CPUs, GPUs, and ICs)  
 
